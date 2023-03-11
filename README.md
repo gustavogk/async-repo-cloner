@@ -9,7 +9,6 @@
    </a>
   <img alt="Languages" src="https://img.shields.io/github/languages/count/gustavogk/async-repo-cloner?style=for-the-badge" />
   <img alt="lastcommit" src="https://img.shields.io/github/last-commit/gustavogk/async-repo-cloner?style=for-the-badge" />
-  <img alt="License" src="https://img.shields.io/github/license/gustavogk/async-repo-cloner?style=for-the-badge" />
   <a href="mailto:gust.krv@gmail.com">
    <img alt="Email" src="https://img.shields.io/badge/-GustavoAssunção-5965e0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -36,12 +35,13 @@ This project was made using the follow technologies:
 * [Python](https://www.python.org/)      
 * [RabbitMQ](https://www.rabbitmq.com/)      
 * [GitPython](https://gitpython.readthedocs.io/en/stable/)
+* [Docker](https://docs.docker.com)
 
 # :computer: How to run
-
+  
 ```bash
 # Clone Repository
-$ git clone https://github.com/gustavogk/dtmoney.git
+$ git clone https://github.com/gustavogk/async-repo-cloner
 ```
 
 ```bash
@@ -56,6 +56,16 @@ $ pip install -r requirements.txt
 
 # Run Aplication
 $ python3 .\async-repo-cloner.py
+```
+  
+```bash
+ # Run RabbitMQ with docker, just run the following command line:
+ $ docker run --rm -p 5672:5672 -p 8080:15672 rabbitmq:3-management
+```
+  
+```bash
+ # Test send repositories to be cloned through the main.py script
+ $ python3 .\main.py
 ```
 
 # :bug: Issues
