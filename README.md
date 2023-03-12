@@ -20,15 +20,26 @@
     <h1></h1>
   </sub>
 </div>
+  
+# async-repo-cloner
+O "async-repo-cloner" é um componente que gerencia a clonagem assíncrona de vários repositórios do GitHub, visando a recuperação de informações e dados históricos para análise. Ele funciona através de um esquema de produtor/consumidor, onde o produtor solicita a clonagem dos repositórios e enfileira os pedidos em um servidor de mensageria (RabbitMQ). Os clientes (consumidores) pegam um pedido da fila e executam a clonagem do repositório utilizando threads em python, permitindo a clonagem simultânea de múltiplos repositórios sem sobrecarregar o sistema.
 
 # 📌 Contents
 
+* [System Diagram](#system-diagram) 
 * [Technologies](#rocket-technologies) 
 * [How to Run](#computer-how-to-run)
 * [Issues](#bug-issues)
 * [Contributing](#sparkles-issues)
 * [License](#page_facing_up-license)
   
+# ⚙️ System Diagram
+  
+```mermaid
+  
+  
+```
+    
 # :rocket: Technologies
 This project was made using the follow technologies:
 
