@@ -36,8 +36,12 @@ O "async-repo-cloner" é um componente que gerencia a clonagem assíncrona de v�
 # ⚙️ System Diagram
   
 ```mermaid
-  
-  
+  flowchart TB
+    A[Producer main.py] -->|send messages to queue| B[RabbitMQ Server]
+    B --> |consume menssages from queue| C[Consumer async-repo-cloner.py]
+    C -->|create a new thread| D[Thread 1]
+    C -->|create a new thread| E[Thread 2]
+    C -->|create a new thread| F[Thread 3]
 ```
     
 # :rocket: Technologies
