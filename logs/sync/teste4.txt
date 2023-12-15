@@ -1,0 +1,237 @@
+[START] Iniciando a clonagem do repositório https://github.com/apache/accumulo.git...
+Cloning into 'repos/user1/accumulo.git'...
+remote: Enumerating objects: 318653, done.
+remote: Counting objects: 100% (5929/5929), done.
+remote: Compressing objects: 100% (2154/2154), done.
+remote: Total 318653 (delta 2264), reused 5090 (delta 1716), pack-reused 312724Receiving objects: 100% (318653/318653), 92.83 MiB | 11.63 MiB/s
+Receiving objects: 100% (318653/318653), 97.29 MiB | 10.81 MiB/s, done.
+Resolving deltas: 100% (158374/158374), done.
+Updating files: 100% (2313/2313), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/accumulo.git: 0:00:14.798012
+[START] Iniciando a clonagem do repositório https://github.com/apache/calcite.git...
+Cloning into 'repos/user2/calcite.git'...
+remote: Enumerating objects: 150331, done.
+remote: Counting objects: 100% (603/603), done.
+remote: Compressing objects: 100% (352/352), done.
+remote: Total 150331 (delta 248), reused 379 (delta 111), pack-reused 149728
+Receiving objects: 100% (150331/150331), 90.69 MiB | 9.52 MiB/s, done.
+Resolving deltas: 100% (83016/83016), done.
+Updating files: 100% (2828/2828), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/calcite.git: 0:00:15.104111
+[START] Iniciando a clonagem do repositório https://github.com/apache/chukwa.git...
+Cloning into 'repos/user3/chukwa.git'...
+remote: Enumerating objects: 15416, done.
+remote: Total 15416 (delta 0), reused 0 (delta 0), pack-reused 15416
+Receiving objects: 100% (15416/15416), 48.00 MiB | 13.31 MiB/s, done.
+Resolving deltas: 100% (8290/8290), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/chukwa.git: 0:00:05.539786
+[START] Iniciando a clonagem do repositório https://github.com/apache/cassandra.git...
+Cloning into 'repos/user4/cassandra.git'...
+remote: Enumerating objects: 409817, done.
+remote: Counting objects: 100% (2104/2104), done.
+remote: Compressing objects: 100% (1156/1156), done.
+remote: Total 409817 (delta 809), reused 1601 (delta 620), pack-reused 407713
+Receiving objects: 100% (409817/409817), 411.07 MiB | 12.74 MiB/s, done.
+Resolving deltas: 100% (239033/239033), done.
+Updating files: 100% (6512/6512), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/cassandra.git: 0:00:44.673033
+[START] Iniciando a clonagem do repositório https://github.com/apache/jackrabbit.git...
+Cloning into 'repos/user5/jackrabbit.git'...
+remote: Enumerating objects: 210006, done.
+remote: Counting objects: 100% (2777/2777), done.
+remote: Compressing objects: 100% (959/959), done.
+remote: Total 210006 (delta 1594), reused 2632 (delta 1492), pack-reused 207229
+Receiving objects: 100% (210006/210006), 59.63 MiB | 6.96 MiB/s, done.
+Resolving deltas: 100% (114565/114565), done.
+Updating files: 100% (3619/3619), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/jackrabbit.git: 0:00:13.697372
+[START] Iniciando a clonagem do repositório https://github.com/FasterXML/jackson.git...
+Cloning into 'repos/user6/jackson.git'...
+remote: Enumerating objects: 34330, done.
+remote: Counting objects: 100% (202/202), done.
+remote: Compressing objects: 100% (83/83), done.
+remote: Total 34330 (delta 122), reused 147 (delta 119), pack-reused 34128Receiving objects: 100% (34330/34330), 28.19 MiB | 5.46 MiB/s       
+Receiving objects: 100% (34330/34330), 30.47 MiB | 5.08 MiB/s, done.
+Resolving deltas: 100% (19041/19041), done.
+[END] Tempo de clonagem do repositório https://github.com/FasterXML/jackson.git: 0:00:07.177743
+[START] Iniciando a clonagem do repositório https://github.com/apache/jspwiki.git...
+Cloning into 'repos/user7/jspwiki.git'...
+remote: Enumerating objects: 112299, done.
+remote: Counting objects: 100% (1476/1476), done.
+remote: Compressing objects: 100% (735/735), done.
+remote: Total 112299 (delta 523), reused 1336 (delta 443), pack-reused 110823Receiving objects: 100% (112299/112299), 94.37 MiB | 12.55 MiB/s 
+Receiving objects: 100% (112299/112299), 95.68 MiB | 11.70 MiB/s, done.
+Resolving deltas: 100% (67342/67342), done.
+Updating files: 100% (1940/1940), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/jspwiki.git: 0:00:12.313852
+[START] Iniciando a clonagem do repositório https://github.com/square/retrofit.git...
+Cloning into 'repos/user8/retrofit.git'...
+remote: Enumerating objects: 25907, done.
+remote: Counting objects: 100% (2704/2704), done.
+remote: Compressing objects: 100% (260/260), done.
+remote: Total 25907 (delta 2577), reused 2451 (delta 2444), pack-reused 23203
+Receiving objects: 100% (25907/25907), 5.74 MiB | 4.58 MiB/s, done.
+Resolving deltas: 100% (12713/12713), done.
+[END] Tempo de clonagem do repositório https://github.com/square/retrofit.git: 0:00:02.670019
+[START] Iniciando a clonagem do repositório https://github.com/apache/struts.git...
+Cloning into 'repos/user9/struts.git'...
+remote: Enumerating objects: 165497, done.
+remote: Counting objects: 100% (18213/18213), done.
+remote: Compressing objects: 100% (2412/2412), done.
+remote: Total 165497 (delta 15875), reused 16998 (delta 15411), pack-reused 147284
+Receiving objects: 100% (165497/165497), 77.53 MiB | 7.12 MiB/s, done.
+Resolving deltas: 100% (84915/84915), done.
+Updating files: 100% (3905/3905), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/struts.git: 0:00:15.784375
+[START] Iniciando a clonagem do repositório https://github.com/apache/jena.git...
+Cloning into 'repos/user10/jena.git'...
+remote: Enumerating objects: 434586, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (12/12), done.
+remote: Total 434586 (delta 1), reused 2 (delta 0), pack-reused 434574
+Receiving objects: 100% (434586/434586), 445.25 MiB | 14.44 MiB/s, done.
+Resolving deltas: 100% (260218/260218), done.
+Updating files: 100% (20202/20202), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/jena.git: 0:00:48.189167
+[START] Iniciando a clonagem do repositório https://github.com/apache/lucene-solr.git...
+Cloning into 'repos/user11/lucene-solr.git'...
+remote: Enumerating objects: 1210058, done.
+remote: Counting objects: 100% (996/996), done.
+remote: Compressing objects: 100% (439/439), done.
+remote: Total 1210058 (delta 365), reused 908 (delta 324), pack-reused 1209062
+Receiving objects: 100% (1210058/1210058), 574.36 MiB | 10.37 MiB/s, done.
+Resolving deltas: 100% (694186/694186), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/lucene-solr.git: 0:01:14.405008
+[START] Iniciando a clonagem do repositório https://github.com/apache/ant-ivy.git...
+Cloning into 'repos/user12/ant-ivy.git'...
+remote: Enumerating objects: 56358, done.
+remote: Counting objects: 100% (463/463), done.
+remote: Compressing objects: 100% (254/254), done.
+remote: Total 56358 (delta 187), reused 375 (delta 105), pack-reused 55895Receiving objects: 100% (56358/56358), 11.50 MiB | 5.72 MiB/s       
+Receiving objects: 100% (56358/56358), 12.23 MiB | 5.75 MiB/s, done.
+Resolving deltas: 100% (36607/36607), done.
+Updating files: 100% (2446/2446), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/ant-ivy.git: 0:00:05.092863
+[START] Iniciando a clonagem do repositório https://github.com/jenkinsci/jenkins.git...
+Cloning into 'repos/user13/jenkins.git'...
+remote: Enumerating objects: 436099, done.
+remote: Counting objects: 100% (64/64), done.
+remote: Compressing objects: 100% (49/49), done.
+remote: Total 436099 (delta 22), reused 41 (delta 13), pack-reused 436035
+Receiving objects: 100% (436099/436099), 151.82 MiB | 9.67 MiB/s, done.
+Resolving deltas: 100% (292944/292944), done.
+Updating files: 100% (12040/12040), done.
+[END] Tempo de clonagem do repositório https://github.com/jenkinsci/jenkins.git: 0:00:28.012016
+[START] Iniciando a clonagem do repositório https://github.com/SeleniumHQ/selenium.git...
+Cloning into 'repos/user14/selenium.git'...
+remote: Enumerating objects: 620074, done.
+remote: Counting objects: 100% (388/388), done.
+remote: Compressing objects: 100% (241/241), done.
+remote: Total 620074 (delta 154), reused 279 (delta 114), pack-reused 619686
+Receiving objects: 100% (620074/620074), 2.04 GiB | 7.89 MiB/s, done.
+Resolving deltas: 100% (455066/455066), done.
+Updating files: 100% (5419/5419), done.
+[END] Tempo de clonagem do repositório https://github.com/SeleniumHQ/selenium.git: 0:04:43.039417
+[START] Iniciando a clonagem do repositório https://github.com/cbeust/testng.git...
+Cloning into 'repos/user15/testng.git'...
+remote: Enumerating objects: 58034, done.
+remote: Counting objects: 100% (1443/1443), done.
+remote: Compressing objects: 100% (757/757), done.
+remote: Total 58034 (delta 602), reused 1266 (delta 528), pack-reused 56591
+Receiving objects: 100% (58034/58034), 31.76 MiB | 7.17 MiB/s, done.
+Resolving deltas: 100% (34622/34622), done.
+Updating files: 100% (2494/2494), done.
+[END] Tempo de clonagem do repositório https://github.com/cbeust/testng.git: 0:00:07.626197
+[START] Iniciando a clonagem do repositório https://github.com/apache/pdfbox.git...
+Cloning into 'repos/user16/pdfbox.git'...
+remote: Enumerating objects: 247730, done.
+remote: Counting objects: 100% (18728/18728), done.
+remote: Compressing objects: 100% (1461/1461), done.
+remote: Total 247730 (delta 17203), reused 17863 (delta 16790), pack-reused 229002
+Receiving objects: 100% (247730/247730), 100.52 MiB | 13.98 MiB/s, done.
+Resolving deltas: 100% (120128/120128), done.
+Updating files: 100% (1848/1848), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/pdfbox.git: 0:00:11.579872
+[START] Iniciando a clonagem do repositório https://github.com/apache/poi.git...
+Cloning into 'repos/user17/poi.git'...
+remote: Enumerating objects: 252737, done.
+remote: Counting objects: 100% (252737/252737), done.
+remote: Compressing objects: 100% (43488/43488), done.
+remote: Total 252737 (delta 154848), reused 251385 (delta 154175), pack-reused 0
+Receiving objects: 100% (252737/252737), 212.85 MiB | 13.88 MiB/s, done.
+Resolving deltas: 100% (154848/154848), done.
+Updating files: 100% (5440/5440), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/poi.git: 0:00:25.556991
+[START] Iniciando a clonagem do repositório https://github.com/apache/xerces2-j.git...
+Cloning into 'repos/user18/xerces2-j.git'...
+remote: Enumerating objects: 75813, done.
+remote: Total 75813 (delta 0), reused 0 (delta 0), pack-reused 75813
+Receiving objects: 100% (75813/75813), 40.37 MiB | 4.09 MiB/s, done.
+Resolving deltas: 100% (51685/51685), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/xerces2-j.git: 0:00:12.485016
+[START] Iniciando a clonagem do repositório https://github.com/apache/druid.git...
+Cloning into 'repos/user19/druid.git'...
+remote: Enumerating objects: 422965, done.
+remote: Counting objects: 100% (2493/2493), done.
+remote: Compressing objects: 100% (1456/1456), done.
+remote: Total 422965 (delta 832), reused 1933 (delta 517), pack-reused 420472
+Receiving objects: 100% (422965/422965), 316.45 MiB | 12.42 MiB/s, done.
+Resolving deltas: 100% (199324/199324), done.
+Updating files: 100% (13179/13179), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/druid.git: 0:00:41.386922
+[START] Iniciando a clonagem do repositório https://github.com/pgjdbc/pgjdbc.git...
+Cloning into 'repos/user20/pgjdbc.git'...
+remote: Enumerating objects: 45441, done.
+remote: Counting objects: 100% (1283/1283), done.
+remote: Compressing objects: 100% (644/644), done.
+remote: Total 45441 (delta 624), reused 1021 (delta 441), pack-reused 44158
+Receiving objects: 100% (45441/45441), 43.14 MiB | 11.97 MiB/s, done.
+Resolving deltas: 100% (27729/27729), done.
+Updating files: 100% (959/959), done.
+[END] Tempo de clonagem do repositório https://github.com/pgjdbc/pgjdbc.git: 0:00:08.221999
+[START] Iniciando a clonagem do repositório https://github.com/apache/activemq.git...
+Cloning into 'repos/user21/activemq.git'...
+remote: Enumerating objects: 238212, done.
+remote: Total 238212 (delta 0), reused 0 (delta 0), pack-reused 238212
+Receiving objects: 100% (238212/238212), 61.42 MiB | 8.75 MiB/s, done.
+Resolving deltas: 100% (115277/115277), done.
+Updating files: 100% (5318/5318), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/activemq.git: 0:00:13.233497
+[START] Iniciando a clonagem do repositório https://github.com/apache/mina.git...
+Cloning into 'repos/user22/mina.git'...
+remote: Enumerating objects: 72588, done.
+remote: Counting objects: 100% (4818/4818), done.
+remote: Compressing objects: 100% (1964/1964), done.
+remote: Total 72588 (delta 1933), reused 4463 (delta 1704), pack-reused 67770
+Receiving objects: 100% (72588/72588), 15.98 MiB | 11.98 MiB/s, done.
+Resolving deltas: 100% (32481/32481), done.
+[END] Tempo de clonagem do repositório https://github.com/apache/mina.git: 0:00:03.196997
+[START] Iniciando a clonagem do repositório https://github.com/alibaba/fastjson.git...
+Cloning into 'repos/user23/fastjson.git'...
+remote: Enumerating objects: 69613, done.
+remote: Counting objects: 100% (21/21), done.
+remote: Compressing objects: 100% (20/20), done.
+remote: Total 69613 (delta 12), reused 8 (delta 1), pack-reused 69592Receiving objects: 100% (69613/69613), 12.03 MiB | 5.96 MiB/s
+Receiving objects: 100% (69613/69613), 15.14 MiB | 6.08 MiB/s, done.
+Resolving deltas: 100% (32073/32073), done.
+Updating files: 100% (3249/3249), done.
+[END] Tempo de clonagem do repositório https://github.com/alibaba/fastjson.git: 0:00:05.668000
+[START] Iniciando a clonagem do repositório https://github.com/google/gson.git...
+Cloning into 'repos/user24/gson.git'...
+remote: Enumerating objects: 32419, done.
+remote: Counting objects: 100% (726/726), done.
+remote: Compressing objects: 100% (403/403), done.
+remote: Total 32419 (delta 295), reused 584 (delta 206), pack-reused 31693Receiving objects: 100% (32419/32419), 6.71 MiB | 2.67 MiB/s        
+Receiving objects: 100% (32419/32419), 8.20 MiB | 2.73 MiB/s, done.
+Resolving deltas: 100% (16334/16334), done.
+[END] Tempo de clonagem do repositório https://github.com/google/gson.git: 0:00:05.629020
+[START] Iniciando a clonagem do repositório https://github.com/google/guava.git...
+Cloning into 'repos/user25/guava.git'...
+remote: Enumerating objects: 399114, done.
+remote: Counting objects: 100% (1155/1155), done.
+remote: Compressing objects: 100% (294/294), done.
+remote: Total 399114 (delta 731), reused 1049 (delta 644), pack-reused 397959
+Receiving objects: 100% (399114/399114), 438.14 MiB | 15.38 MiB/s, done.
+Resolving deltas: 100% (295671/295671), done.
+Updating files: 100% (3298/3298), done.
+[END] Tempo de clonagem do repositório https://github.com/google/guava.git: 0:00:43.393034

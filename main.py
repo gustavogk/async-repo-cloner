@@ -2,11 +2,11 @@ import pika
 import json
 
 # Criar uma conexão com o RabbitMQ
-connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
+connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost', heartbeat=0))
 channel = connection.channel()
 
 # Declarar a fila para enviar mensagens
-channel.queue_declare(queue='fila')
+channel.queue_declare(queue='clone_queue',durable=True)
 
 # Lista de repositórios para enviar
 repos = [
@@ -41,7 +41,7 @@ repos = [
 for repo in repos:
     message = json.dumps(repo)
     channel.basic_publish(exchange='',
-                          routing_key='fila',
+                          routing_key='clone_queue',
                           body=message)
     print(f'[x] Mensagem enviada: {message}')
 
