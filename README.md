@@ -39,9 +39,9 @@ O "async-repo-cloner" é um componente que gerencia a clonagem assíncrona de v�
 flowchart TB
     A[Producer main.py] -->|send messages to queue| B[RabbitMQ Server]
     B --> |consume messages from queue| C[Consumer async-repo-cloner.py]
-    C -->|create Thread 1 to clone a repository | D[Thread 1: Clone Repository 1]
-    C -->|create Thread 2 to clone a repository | E[Thread 2: Clone Repository 2]
-    C -->|create Thread 3 to clone a repository | F[Thread 3: Clone Repository 3]
+    C -->|create Process 1 to clone a repository | D[Process 1: Clone Repository 1]
+    C -->|create Process 2 to clone a repository | E[Process 2: Clone Repository 2]
+    C -->|create Process 3 to clone a repository | F[Process 3: Clone Repository 3]
 ```
     
 # :rocket: Technologies
